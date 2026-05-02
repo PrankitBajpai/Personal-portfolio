@@ -30,7 +30,7 @@ function Project(props) {
         <div className="flex-col">
           <h1 className="text-white font-bold text-3xl justify-center mx-12 ">FEATURES</h1>
           <ul className="list-disc list-inside space-y-1  text-white  text-2xl font-normal mx-10 my-5 ">
-         <li>{props.f1}</li>
+         <li>{props.f1}</li> 
          <li>{props.f2}</li>
          <li>{props.f3}</li>
          <li>{props.f4}</li>
